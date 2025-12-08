@@ -15,6 +15,9 @@ Aryan Raina E22CSEU0291
   - Projected spending for the month
   - Alerts for overspending
 - All changes to the app trigger **automatic deployments via AWS Amplify** from the GitHub repo.
+## Demo Link
+https://finance-tracker-using-aws.vercel.app/
+
 
 ## 🧰 AWS Services Used
 - [x] AWS Amplify (CI/CD Deployment)
