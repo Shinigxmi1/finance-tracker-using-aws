@@ -1,7 +1,6 @@
 # 💰 Finance Tracker App (Built with AWS)
 
-This is a **simple finance tracking web app** built entirely on AWS using a **CI/CD pipeline with AWS Amplify**, **API Gateway**, **DynamoDB**, and **Lambda** by Akash bartwal E22CSEU0297
-Aryan Raina E22CSEU0291
+This is a **simple finance tracking web app** built entirely on AWS using a **CI/CD pipeline with AWS Amplify**, **API Gateway**, **DynamoDB**, and **Lambda**
 
 
 ## 📊 Features
